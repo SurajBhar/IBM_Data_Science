@@ -33,6 +33,7 @@ Below is the full list of courses, with completion progress:
 
 | Filename | Description |
 |---------|-------------|
+| `Certificates/` | Directory for organizing all certificates associated with this program |
 | `DS0103EN-Exercise-From-Modeling-to-Evaluation.ipynb` | Practice notebook for model evaluation and selection |
 | `DS0103EN-Exercise-From-Understandin (copy).ipynb` | Data understanding notebook from the methodology course |
 | `DataScienceEcosystem.ipynb` | Final assignment notebook from "Tools for Data Science" |
