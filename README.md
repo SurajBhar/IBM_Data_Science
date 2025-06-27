@@ -19,9 +19,9 @@ Below is the full list of courses, with completion progress:
 | 3 | ✅ Data Science Methodology | Completed |
 | 4 | ✅ Python for Data Science, AI & Development | Completed |
 | 5 | ✅ Python Project for Data Science | Completed |
-| 6 | ⏳ Databases and SQL for Data Science with Python | In Process |
-| 7 | ⏳ Data Analysis with Python | Not started |
-| 8 | ⏳ Data Visualization with Python | Not started |
+| 6 | ✅ Databases and SQL for Data Science with Python | Completed |
+| 7 | ✅ Data Analysis with Python | Completed |
+| 8 | ⏳ Data Visualization with Python | In Process |
 | 9 | ⏳ Machine Learning with Python | Not started |
 | 10 | ⏳ Applied Data Science Capstone | Not started |
 | 11 | ⏳ Generative AI: Elevate Your Data Science Career | Not started |
